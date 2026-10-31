@@ -1,0 +1,18 @@
+ItemName_EN = {
+    ItemName_Base_PolishZywiec = "Żywiec Beer",
+    ItemName_Base_PolishTyskie = "Tyskie Beer",
+    ItemName_Base_PolishLech = "Lech Beer",
+    ItemName_Base_PolishZubr = "Żubr Beer",
+    ItemName_Base_PolishZubrowka = "Żubrówka Vodka",
+    ItemName_Base_PolishWyborowa = "Wyborowa Vodka",
+    ItemName_Base_PolishSoplica = "Soplica Vodka",
+    ItemName_Base_PolishKustosz = "Kustosz Beer",
+    ItemName_Base_PolishRomper = "Romper Beer",
+    ItemName_Base_PolishImperator = "Imperator Beer",
+    ItemName_Base_PolishKarpackie = "Karpackie Beer",
+    ItemName_Base_PolishTatra = "Tatra Beer",
+    ItemName_Base_PolishHarnas = "Harnaś Beer",
+    ItemName_Base_PolishAdamMickiewicz = "Adam Mickiewicz Vodka",
+    ItemName_Base_PolishChopin = "Chopin Vodka",
+    ItemName_Base_PolishWratislavia = "Wratislavia Vodka",
+}
