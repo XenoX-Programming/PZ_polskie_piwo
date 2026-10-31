@@ -1,0 +1,178 @@
+module Base
+{
+    item PolishZywiec
+    {
+        DisplayCategory = Food,
+        ItemType = base:normal,
+        Weight = 0.6,
+        Icon = BeerBottle,
+        EatType = Bourbon,
+        StaticModel = BeerBottle,
+        WorldStaticModel = BeerBottleGround,
+        FillFromDispenserSound = GetWaterFromDispenserGlass,
+        FillFromLakeSound = GetWaterFromLakeBottle,
+        FillFromTapSound = GetWaterFromTapGlass,
+        FillFromToiletSound = GetWaterFromToilet,
+        Tags = base:glass;base:glassbottlesmall,
+        component FluidContainer
+        {
+            ContainerName = BottleBeer,
+            Capacity = 0.5,
+            CustomDrinkSound = DrinkingFromBottleGlass,
+            Fluids
+            {
+                fluid = Beer:1.0,
+            }
+        }
+    }
+    item PolishTyskie
+    {
+        DisplayCategory = Food,
+        ItemType = base:normal,
+        Weight = 0.6,
+        Icon = BeerBottle,
+        EatType = Bourbon,
+        StaticModel = BeerBottle,
+        WorldStaticModel = BeerBottleGround,
+        FillFromDispenserSound = GetWaterFromDispenserGlass,
+        FillFromLakeSound = GetWaterFromLakeBottle,
+        FillFromTapSound = GetWaterFromTapGlass,
+        FillFromToiletSound = GetWaterFromToilet,
+        Tags = base:glass;base:glassbottlesmall,
+        component FluidContainer
+        {
+            ContainerName = BottleBeer,
+            Capacity = 0.5,
+            CustomDrinkSound = DrinkingFromBottleGlass,
+            Fluids
+            {
+                fluid = Beer:1.0,
+            }
+        }
+    }
+    item PolishLech
+    {
+        DisplayCategory = Food,
+        ItemType = base:normal,
+        Weight = 0.6,
+        Icon = BeerBottle,
+        EatType = Bourbon,
+        StaticModel = BeerBottle,
+        WorldStaticModel = BeerBottleGround,
+        FillFromDispenserSound = GetWaterFromDispenserGlass,
+        FillFromLakeSound = GetWaterFromLakeBottle,
+        FillFromTapSound = GetWaterFromTapGlass,
+        FillFromToiletSound = GetWaterFromToilet,
+        Tags = base:glass;base:glassbottlesmall,
+        component FluidContainer
+        {
+            ContainerName = BottleBeer,
+            Capacity = 0.5,
+            CustomDrinkSound = DrinkingFromBottleGlass,
+            Fluids
+            {
+                fluid = Beer:1.0,
+            }
+        }
+    }
+    item PolishZubr
+    {
+        DisplayCategory = Food,
+        ItemType = base:normal,
+        Weight = 0.6,
+        Icon = BeerBottle,
+        EatType = Bourbon,
+        StaticModel = BeerBottle,
+        WorldStaticModel = BeerBottleGround,
+        FillFromDispenserSound = GetWaterFromDispenserGlass,
+        FillFromLakeSound = GetWaterFromLakeBottle,
+        FillFromTapSound = GetWaterFromTapGlass,
+        FillFromToiletSound = GetWaterFromToilet,
+        Tags = base:glass;base:glassbottlesmall,
+        component FluidContainer
+        {
+            ContainerName = BottleBeer,
+            Capacity = 0.5,
+            CustomDrinkSound = DrinkingFromBottleGlass,
+            Fluids
+            {
+                fluid = Beer:1.0,
+            }
+        }
+    }
+    item PolishZubrowka
+    {
+        DisplayCategory = Food,
+        ItemType = base:normal,
+        Weight = 0.7,
+        Icon = Vodka,
+        EatType = Bourbon,
+        StaticModel = VodkaBottle,
+        WorldStaticModel = VodkaBottle,
+        FillFromDispenserSound = GetWaterFromDispenserGlass,
+        FillFromLakeSound = GetWaterFromLakeBottle,
+        FillFromTapSound = GetWaterFromTapGlass,
+        FillFromToiletSound = GetWaterFromToilet,
+        Tags = base:glass;base:glassbottle,
+        component FluidContainer
+        {
+            ContainerName = BottleGlass,
+            Capacity = 0.5,
+            CustomDrinkSound = DrinkingFromBottleGlass,
+            Fluids
+            {
+                fluid = Vodka:1.0,
+            }
+        }
+    }
+    item PolishWyborowa
+    {
+        DisplayCategory = Food,
+        ItemType = base:normal,
+        Weight = 0.7,
+        Icon = Vodka,
+        EatType = Bourbon,
+        StaticModel = VodkaBottle,
+        WorldStaticModel = VodkaBottle,
+        FillFromDispenserSound = GetWaterFromDispenserGlass,
+        FillFromLakeSound = GetWaterFromLakeBottle,
+        FillFromTapSound = GetWaterFromTapGlass,
+        FillFromToiletSound = GetWaterFromToilet,
+        Tags = base:glass;base:glassbottle,
+        component FluidContainer
+        {
+            ContainerName = BottleGlass,
+            Capacity = 0.5,
+            CustomDrinkSound = DrinkingFromBottleGlass,
+            Fluids
+            {
+                fluid = Vodka:1.0,
+            }
+        }
+    }
+    item PolishSoplica
+    {
+        DisplayCategory = Food,
+        ItemType = base:normal,
+        Weight = 0.7,
+        Icon = Vodka,
+        EatType = Bourbon,
+        StaticModel = VodkaBottle,
+        WorldStaticModel = VodkaBottle,
+        FillFromDispenserSound = GetWaterFromDispenserGlass,
+        FillFromLakeSound = GetWaterFromLakeBottle,
+        FillFromTapSound = GetWaterFromTapGlass,
+        FillFromToiletSound = GetWaterFromToilet,
+        Tags = base:glass;base:glassbottle,
+        component FluidContainer
+        {
+            ContainerName = BottleGlass,
+            Capacity = 0.5,
+            CustomDrinkSound = DrinkingFromBottleGlass,
+            Fluids
+            {
+                fluid = Vodka:1.0,
+            }
+        }
+    }
+}

@@ -1,0 +1,9 @@
+ItemName_EN = {
+    ItemName_Base_PolishZywiec = "Żywiec Beer",
+    ItemName_Base_PolishTyskie = "Tyskie Beer",
+    ItemName_Base_PolishLech = "Lech Beer",
+    ItemName_Base_PolishZubr = "Żubr Beer",
+    ItemName_Base_PolishZubrowka = "Żubrówka Vodka",
+    ItemName_Base_PolishWyborowa = "Wyborowa Vodka",
+    ItemName_Base_PolishSoplica = "Soplica Vodka",
+}

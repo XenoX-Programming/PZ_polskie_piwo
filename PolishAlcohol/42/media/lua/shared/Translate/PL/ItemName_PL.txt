@@ -1,0 +1,9 @@
+ItemName_PL = {
+    ItemName_Base_PolishZywiec = "Piwo Żywiec",
+    ItemName_Base_PolishTyskie = "Piwo Tyskie",
+    ItemName_Base_PolishLech = "Piwo Lech",
+    ItemName_Base_PolishZubr = "Piwo Żubr",
+    ItemName_Base_PolishZubrowka = "Wódka Żubrówka",
+    ItemName_Base_PolishWyborowa = "Wódka Wyborowa",
+    ItemName_Base_PolishSoplica = "Wódka Soplica",
+}
