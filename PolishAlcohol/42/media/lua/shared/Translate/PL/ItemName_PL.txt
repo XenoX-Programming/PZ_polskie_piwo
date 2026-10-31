@@ -6,4 +6,13 @@ ItemName_PL = {
     ItemName_Base_PolishZubrowka = "Wódka Żubrówka",
     ItemName_Base_PolishWyborowa = "Wódka Wyborowa",
     ItemName_Base_PolishSoplica = "Wódka Soplica",
+    ItemName_Base_PolishKustosz = "Piwo Kustosz",
+    ItemName_Base_PolishRomper = "Piwo Romper",
+    ItemName_Base_PolishImperator = "Piwo Imperator",
+    ItemName_Base_PolishKarpackie = "Piwo Karpackie",
+    ItemName_Base_PolishTatra = "Piwo Tatra",
+    ItemName_Base_PolishHarnas = "Piwo Harnaś",
+    ItemName_Base_PolishAdamMickiewicz = "Wódka Adam Mickiewicz",
+    ItemName_Base_PolishChopin = "Wódka Chopin",
+    ItemName_Base_PolishWratislavia = "Wódka Wratislavia",
 }

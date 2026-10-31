@@ -3,17 +3,17 @@ require "Items/ProceduralDistributions"
 -- Append to vanilla lists, rather than replacing them. Weights are relative loot
 -- weights, not percentages. Missing lists are skipped on different 42 builds.
 local additions = {
-    LiquorStoreBeerFancy = { "Zywiec", "Tyskie", "Lech", "Zubr" },
-    LiquorStoreBeer = { "Zywiec", "Tyskie", "Lech", "Zubr" },
-    LiquorStoreWhiskey = { "Zubrowka", "Wyborowa", "Soplica" },
-    LiquorStoreLiquor = { "Zubrowka", "Wyborowa", "Soplica" },
-    BarShelfLiquor = { "Zubrowka", "Wyborowa", "Soplica" },
-    BarCounterLiquor = { "Zubrowka", "Wyborowa", "Soplica" },
-    FridgeBeer = { "Zywiec", "Tyskie", "Lech", "Zubr" },
-    StoreShelfBeer = { "Zywiec", "Tyskie", "Lech", "Zubr" },
-    BarShelfBeer = { "Zywiec", "Tyskie", "Lech", "Zubr" },
-    FridgeSoda = { "Zywiec", "Tyskie", "Lech", "Zubr" },
-    GigamartBottles = { "Zywiec", "Tyskie", "Lech", "Zubr", "Zubrowka", "Wyborowa", "Soplica" },
+    LiquorStoreBeerFancy = { "Zywiec", "Tyskie", "Lech", "Zubr", "Kustosz", "Romper", "Imperator", "Karpackie", "Tatra", "Harnas" },
+    LiquorStoreBeer = { "Zywiec", "Tyskie", "Lech", "Zubr", "Kustosz", "Romper", "Imperator", "Karpackie", "Tatra", "Harnas" },
+    LiquorStoreWhiskey = { "Zubrowka", "Wyborowa", "Soplica", "AdamMickiewicz", "Chopin", "Wratislavia" },
+    LiquorStoreLiquor = { "Zubrowka", "Wyborowa", "Soplica", "AdamMickiewicz", "Chopin", "Wratislavia" },
+    BarShelfLiquor = { "Zubrowka", "Wyborowa", "Soplica", "AdamMickiewicz", "Chopin", "Wratislavia" },
+    BarCounterLiquor = { "Zubrowka", "Wyborowa", "Soplica", "AdamMickiewicz", "Chopin", "Wratislavia" },
+    FridgeBeer = { "Zywiec", "Tyskie", "Lech", "Zubr", "Kustosz", "Romper", "Imperator", "Karpackie", "Tatra", "Harnas" },
+    StoreShelfBeer = { "Zywiec", "Tyskie", "Lech", "Zubr", "Kustosz", "Romper", "Imperator", "Karpackie", "Tatra", "Harnas" },
+    BarShelfBeer = { "Zywiec", "Tyskie", "Lech", "Zubr", "Kustosz", "Romper", "Imperator", "Karpackie", "Tatra", "Harnas" },
+    FridgeSoda = { "Zywiec", "Tyskie", "Lech", "Zubr", "Kustosz", "Romper", "Imperator", "Karpackie", "Tatra", "Harnas" },
+    GigamartBottles = { "Zywiec", "Tyskie", "Lech", "Zubr", "Kustosz", "Romper", "Imperator", "Karpackie", "Tatra", "Harnas", "Zubrowka", "Wyborowa", "Soplica", "AdamMickiewicz", "Chopin", "Wratislavia" },
 }
 
 for name, drinks in pairs(additions) do
